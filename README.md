@@ -1,2 +1,2 @@
-# gotask
+# gotask.cc
 Team coordination platform
